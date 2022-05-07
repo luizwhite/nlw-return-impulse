@@ -1,0 +1,6 @@
+[submodule "web"]
+	path = web
+	url = git@github.com:luizwhite/nlw-return-impulse-web.git
+[submodule "server"]
+	path = server
+	url = git@github.com:luizwhite/nlw-return-impulse-server.git
